@@ -4,9 +4,9 @@
 ¡Bienvenido/a a este repositorio donde compartire mis avances, soluciones y aprendizajes de los wargames de [OverTheWire](https://overthewire.org/wargames/)!
 
 📌 ¿Qué encontrarás aquí?
-  - Soluciones detalladas para cada nivel de varios wargames.
-  - Explicaciones claras de comandos y herramientas.
-  - Capturas de pantalla para complementar las soluciones.
+  - ✅ Soluciones detalladas para cada nivel de varios wargames.
+  - 🧠 Explicaciones claras de comandos y herramientas.
+  - 🖼️ Capturas de pantalla para complementar las soluciones.
 
 ## 🕹️ Juegos incluidos
 
