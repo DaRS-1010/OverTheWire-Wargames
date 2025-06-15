@@ -24,4 +24,16 @@
 | Semtex     | 🔜Por comenzar | [Semtex](https://overthewire.org/wargames/semtex/) |
 | Rop        | 🔜Por comenzar | [Rop](https://overthewire.org/wargames/rop/) |
 
+## 🙌 Colabora y aporta
+
+Si quieres ayudar con nuevas soluciones o mejoras, ¡los pull requests son bienvenidos!
+
+## ⭐ Si te gusta, ¡dale una estrella!
+
+Gracias por apoyar este proyecto. 
+
+## 📜 Licencia
+
+Este repositorio está bajo la licencia **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
+Puedes compartir y adaptar el contenido dando crédito.
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
