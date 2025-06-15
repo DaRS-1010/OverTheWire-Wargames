@@ -36,4 +36,5 @@ Gracias por apoyar este proyecto.
 
 Este repositorio está bajo la licencia **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
 Puedes compartir y adaptar el contenido dando crédito.
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
