@@ -11,7 +11,7 @@
 ## 🕹️ Juegos incluidos
 
 | Juego      | Estado       | Enlace Oficial                                    |
-|------------|--------------|--------------------------------------------------|
+|:------------:|--------------|--------------------------------------------------|
 | Bandit     | ⏳En progreso | [Bandit](https://overthewire.org/wargames/bandit/) |
 | Leviathan  | 🔜Por comenzar | [Leviathan](https://overthewire.org/wargames/leviathan/) |
 | Narnia     | 🔜Por comenzar | [Narnia](https://overthewire.org/wargames/narnia/) |
