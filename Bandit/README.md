@@ -19,3 +19,12 @@ Cada nivel contiene:
 - 💻 Comandos utilizados
 - 🔑 Contraseña obtenida
 - 📝 Notas adicionales
+
+## 🚀 Cómo empezar
+
+1. Visita: [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
+2. Lee la descripción del nivel.
+3. Ve a la carpeta correspondiente en este repositorio.
+4. Sigue los pasos y comandos descritos.
+
+---
