@@ -1,4 +1,4 @@
-![bandit] ( Bandit/Assets/Bandit (2).jpg)
+![bandit] (Bandit/Assets/Bandit (2).jpg)
 
 # Bandit 
 
