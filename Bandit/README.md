@@ -29,8 +29,16 @@ Cada nivel contiene:
 
 ---
 
+## 📁 Estructura del repositorio
 
+Cada nivel está documentado en su propia carpeta:
 
+| Nivel | Descripción | Enlace |
+|-------|-------------|--------|
+| Nivel 00 | Conexión SSH básica | [Ir a nivel00](./nivel00) |
+| Nivel 01 | Leer archivo oculto | [Ir a nivel01](./nivel01) |
+| Nivel 02 | Archivos con nombres especiales | [Ir a nivel02](./nivel02) |
+| Nivel 03 | Archivos ocultos en carpetas ocultas | [Ir a nivel03](./nivel03) |
 
 ## 📬 Contacto
 
