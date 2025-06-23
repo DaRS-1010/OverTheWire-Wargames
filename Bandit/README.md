@@ -28,3 +28,18 @@ Cada nivel contiene:
 4. Sigue los pasos y comandos descritos.
 
 ---
+
+
+
+
+## 📬 Contacto
+
+¿Dudas, aportes o correcciones? Puedes abrir un [Issue](https://github.com/) o hacer un Pull Request.
+
+
+## ⚠️ Nota
+
+⚠️ Este repositorio es solo para fines **educativos** y de **documentación personal**.  
+No contiene contraseñas activas, y no fomenta el uso indebido de sistemas remotos.
+
+---
