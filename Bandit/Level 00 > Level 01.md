@@ -1,6 +1,6 @@
-# Level 00 > level 01
+# Nivel 00 > nivel 01
 
-## Objective
+## Objectivo
 El propósito de este nivel es que aprendas a iniciar sesión en el entorno del juego utilizando el protocolo `SSH`.  
 Para hacerlo, deberás conectarte al servidor `bandit.labs.overthewire.org`, específicamente al puerto `2220`.  
 Tanto el nombre de usuario como la contraseña son `bandit0`.
@@ -24,7 +24,8 @@ Una vez que hayas accedido correctamente al sistema remoto, puedes avanzar visit
     - Podremos observar un archivo con el nombre <code>readme</code> ahora vamos a ver su
       contenido con <code>cat</code>
       
-      Nos daran unas felicitacione y el codigo para acceder al siguiente nivel 
+      Nos daran unas felicitacione y el codigo para acceder al siguiente nivel: 
+      |Contraseña| ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If | 
       
 
       
