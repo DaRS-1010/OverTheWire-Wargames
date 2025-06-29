@@ -25,9 +25,9 @@ Una vez que hayas accedido correctamente al sistema remoto, puedes avanzar visit
       contenido con <code>cat</code>
       
       Nos daran unas felicitacione y el codigo para acceder al siguiente nivel: 
-      |Contraseña|
+      |Contraseña| ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If | 
       |:------------|
-      | ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If | 
+   
       
 
 
