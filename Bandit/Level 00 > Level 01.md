@@ -9,22 +9,23 @@ Para hacerlo, deberás conectarte al servidor `bandit.labs.overthewire.org`, esp
 Una vez que hayas accedido correctamente al sistema remoto, puedes avanzar visitando la página del Nivel 1, donde encontrarás instrucciones para superar el siguiente reto.
 
 ## 🛠️ Solución ##
-    1.💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH. 
-    2. ⚠️ Aunque SSH usa por defecto el puerto 22, en este caso deberás usar el puerto 2220. 
-    Luego, especifica el nombre de usuario y el dominio del servidor al que deseas conectarte:.
+💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH. 
+⚠️ Aunque SSH usa por defecto el puerto 22, en este caso deberás usar el puerto 2220. 
+Luego, especifica el nombre de usuario y el dominio del servidor al que deseas conectarte:.
     `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
 __✅ Recuerda el esquema: protocolo usuario@host -opciones (si las necesitas)__
 
-    3. Ingresa la contraseña en este caso <code>bandit0</code>
+Ingresa la contraseña en este caso <code>bandit0</code>
 
-##Navegación## 
-    - entramos como el usuario <code>bandit0@bandit</code> user: bandit0 y host: bandit
-    - <code>ls</code> para listar y mirar que contenido tenemos dentro del host
-    - Podremos observar un archivo con el nombre <code>readme</code> ahora vamos a ver su
-      contenido con <code>cat</code>
+## 🧭Navegación## 
+-entramos como el usuario <code>bandit0@bandit</code> user: bandit0 y host: bandit
+- <code>ls</code> para listar y mirar que contenido tenemos dentro del host
+- Podremos observar un archivo con el nombre <code>readme</code> ahora vamos a ver su
+  contenido con <code>cat</code>
       
-      Nos daran unas felicitacione y el codigo para acceder al siguiente nivel: 
+  Nos daran unas felicitacione y el codigo para acceder al siguiente nivel:
+  
 <div align="center">
 
 | 🔐 Contraseña |
