@@ -21,12 +21,12 @@ __✅ Recuerda el esquema: protocolo usuario@host -opciones (si las necesitas)__
 Ingresa la contraseña en este caso <code>bandit0</code>
 
 ## 🧭Navegación## 
-- entramos como el usuario <code>bandit0@bandit</code> user: bandit0 y host: bandit
+- entramos como el usuario y host <code>bandit0@bandit</code>
 - <code>ls</code> para listar y mirar que contenido tenemos dentro del host
 - Podremos observar un archivo con el nombre <code>readme</code> ahora vamos a ver su
   contenido con <code>cat</code>
       
-  Nos daran unas felicitacione y el codigo para acceder al siguiente nivel:
+  Nos daran unas felicitaciones y el codigo para acceder al siguiente nivel:
   
 <div align="center">
 
