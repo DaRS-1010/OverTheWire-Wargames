@@ -18,8 +18,8 @@ Ingresa la contraseña 🚩
 - En este caso nos encontramos con espacio entre el nombre del archivo el cual afecta su llamado en shell
 - La forma correcta de observar el contenido del archivo es atreves de las comillas
     
-    cat "spaces in this filename"
-    
+   <code>cat "spaces in this filename"</code>
+   
 - Esto nos daria como resultado la flag 🚩 del siguiente nivel
 
 <div align="center">
