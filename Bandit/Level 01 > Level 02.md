@@ -1,6 +1,6 @@
 # 🧩Nivel 01 → Nivel 02
 
-## 🎯 Objetivo ##
+# 🎯 Objetivo 
 
 Encontrar la contraseña del usuario bandit2. Está almacenada en un archivo llamado - ubicado en el home directory.
 
