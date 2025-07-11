@@ -1,6 +1,6 @@
 # 🧩Nivel 04 → Nivel 05
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Encontrar el archivo que es legible por humanos entre muchos archivos que no lo son.
 
