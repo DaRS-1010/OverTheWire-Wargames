@@ -25,14 +25,25 @@ Ingresa la contraseña 🚩
 
       find . -type f -size 1033c ! -executable -exec file {} \; 
 
-    
-    - `exec` → le dice a `find` que **ejecute un comando** para cada archivo que encuentre.
-    - `file` → es el comando que se va a ejecutar. En este caso, `file` analiza el tipo de contenido del archivo.
-    - `{}` → representa **el nombre del archivo encontrado**.
-    - `\;` → finaliza el `exec` (es obligatorio; el punto y coma debe ir escapado con `\` para que Bash no lo interprete mal).
+    - `find` → le dice a `find` Busca archivos/directorios desde el directorio actual **(.)**.
+    - `-type f` Limita los resultados a archivos regulares (excluye directorios, enlaces, etc.).
+    - `-size 1033c` Filtra los archivos cuyo **tamaño es exactamente 1033 bytes**, `c` significa "bytes" (caracteres).
+    - `! -executable` Excluye los archivos que son ejecutables, El signo `!` es una negación.
+    - `-exec file {} \;` Por cada archivo que cumpla los criterios anteriores, ejecuta el comando:
+        - `file` intenta determinar el tipo de contenido del archivo (por ejemplo, texto ASCII, binario, imagen, etc.).
+        - `{}` es un marcador de posición que representa cada archivo encontrado.
+        - `\;` indica el final del comando -exec.
 - esto nos dara como resultado
 
 `./inhere/maybehere07/.file2: ASCII text, with very long lines (1000)`
 visitamos la ruta y …
 
 - Esto nos daria como resultado la flag 🚩 del siguiente nivel
+
+<div align="center">
+
+| 🔐 Contraseña |
+|:-------------:|
+| `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG` ✅ |
+
+</div>
