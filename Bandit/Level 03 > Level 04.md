@@ -1,6 +1,6 @@
 # 🧩Nivel 03 → Nivel 04
 
-## 🎯 Objetivo
+# 🎯 Objetivo
 
 Encontrar la contraseña del usuario bandit4. Está almacenada 
 en un archivo oculto en el home directory.
