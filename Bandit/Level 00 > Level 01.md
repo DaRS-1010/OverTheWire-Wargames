@@ -1,6 +1,6 @@
 # 🧩Nivel 00 → Nivel 01
 
-## 🎯 Objetivo ##
+# 🎯 Objetivo 
 
 El propósito de este nivel es que aprendas a iniciar sesión en el entorno del juego utilizando el protocolo SSH.
 Para hacerlo, deberás conectarte al servidor `bandit.labs.overthewire.org`, específicamente al puerto 2220.
