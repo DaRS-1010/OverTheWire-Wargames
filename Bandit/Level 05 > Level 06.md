@@ -1,6 +1,6 @@
 # 🧩Nivel 05 → Nivel 06
 
-🎯 Objetivo
+#🎯 Objetivo
 
 La contraseña del siguiente nivel está guardada en un archivo ubicado en algún lugar dentro del directorio actual. Este archivo cumple con todas las siguientes condiciones:
 
