@@ -1,6 +1,6 @@
 # 🧩Nivel 02 → Nivel 03
 
-🎯 Objetivo
+## 🎯 Objetivo ##
 
 Encontrar la contraseña del usuario bandit3. Está almacenada en un archivo llamado “spaces in this filename”ubicado en el home directory.
 
