@@ -2,7 +2,7 @@
 
 # 🎯 Objetivo
 
-La contraseña para el siguiente nivel se almacena en algún lugar del servidor y tiene todas las propiedades siguientes:
+La contraseña del próximo nivel se encuentra en algún lugar dentro del servidor y cumple con todas las siguientes características.
 
 - propiedad del usuario bandit7
 - propiedad del grupo bandit6
