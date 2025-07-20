@@ -40,6 +40,17 @@ Cada nivel está documentado en su propia carpeta:
 | Nivel 02 | Archivos con nombres especiales | [Ir a nivel02](./nivel02) |
 | Nivel 03 | Archivos ocultos en carpetas ocultas | [Ir a nivel03](./nivel03) |
 
+## ⚙️
+
+| Herramienta | Descripción breve                            | Ejemplo de uso                                                      | Parámetros útiles                     |
+| ----------- | -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------- |
+| `find`      | Busca archivos y directorios según criterios | `find / -type f -user bandit7 -group bandit6 -size 33c 2>/dev/null` | `-type f`, `-user`, `-group`, `-size` |
+| `grep`      | Busca texto dentro de archivos               | `grep ^millionth data.txt`                                          | `^`, `-i`, `-r`                       |
+| `sort`      | Ordena líneas de texto alfabéticamente       | `sort data.txt`                                                     | —                                     |
+| `uniq`      | Filtra líneas duplicadas en texto ordenado   | `sort data.txt \| uniq -u`                                          | `-u` (únicos), `-d` (duplicados)      |
+| `awk`       | Procesa texto por columnas o patrones        | `awk '{print $2}'`                                                  | `$1`, `$2`, `-F` (separador)          |
+
+
 ## 📬 Contacto
 
 ¿Dudas, aportes o correcciones? Puedes abrir un [Issue](https://github.com/) o hacer un Pull Request.
