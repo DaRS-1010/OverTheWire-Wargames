@@ -1,4 +1,4 @@
-# #🧩Nivel 06 → Nivel 07
+#🧩Nivel 06 → Nivel 07
 
 #🎯 Objetivo
 
@@ -8,7 +8,7 @@ La contraseña para el siguiente nivel se almacena en algún lugar del servidor 
 - propiedad del grupo bandit6
 - 33 bytes de tamaño
 
-## ##🛠️ Solución
+##🛠️ Solución
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -18,7 +18,7 @@ La contraseña para el siguiente nivel se almacena en algún lugar del servidor 
 
 Ingresa la contraseña 🚩
 
-## ##🧭Navegación
+##🧭Navegación
 
 - De una forma rapida podemos empezar a filtrar con las condiciones que nos dieron
     
@@ -34,22 +34,16 @@ Ingresa la contraseña 🚩
         
         | `-type f` | **Archivo regular** |
         | --- | --- |
-        
         | `-type d` | Directorio |
         | --- | --- |
-        
         | `-type l` | Enlace simbólico |
         | --- | --- |
-        
         | `-type s` | Socket |
         | --- | --- |
-        
         | `-type p` | FIFO (pipe con nombre) |
         | --- | --- |
-        
         | `-type b` | Dispositivo en bloque |
         | --- | --- |
-        
         | `-type c` | Dispositivo de caracteres |
         | --- | --- |
     - `-user bandit7` → pertenecientes al usuario `bandit7`
