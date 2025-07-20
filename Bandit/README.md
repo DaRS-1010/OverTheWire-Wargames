@@ -45,6 +45,7 @@ Cada nivel está documentado en su propia carpeta:
 | `sort`      | Ordena líneas de texto alfabéticamente       | `sort data.txt`                                                     | —                                     |
 | `uniq`      | Filtra líneas duplicadas en texto ordenado   | `sort data.txt \| uniq -u`                                          | `-u` (únicos), `-d` (duplicados)      |
 | `awk`       | Procesa texto por columnas o patrones        | `awk '{print $2}'`                                                  | `$1`, `$2`, `-F` (separador)          |
+| `strings`   | Extrae cadenas de texto legibles de archivos binarios o mixtos | `strings archivo.bin`                             | `-a` escanea todo el archivo (no solo datos)         |
 
 
 ## 📬 Contacto
