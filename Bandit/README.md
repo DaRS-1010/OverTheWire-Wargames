@@ -11,8 +11,6 @@ Bandit está diseñado para ayudar a comprender los conceptos básicos de Linux,
 Ideal para quienes inician en el **hacking ético**, **ciberseguridad** o **administración de sistemas Linux**.
 
 ---
-
-
 Cada nivel contiene:
 - 🧠 Explicación paso a paso
 - 💻 Comandos utilizados
@@ -25,7 +23,6 @@ Cada nivel contiene:
 2. Lee la descripción del nivel.
 3. Ve a la carpeta correspondiente en este repositorio.
 4. Sigue los pasos y comandos descritos.
-
 ---
 
 ## 📁 Estructura del repositorio
