@@ -14,7 +14,6 @@ Ideal para quienes inician en el **hacking ético**, **ciberseguridad** o **admi
 
 
 Cada nivel contiene:
-- 📸 Capturas del proceso
 - 🧠 Explicación paso a paso
 - 💻 Comandos utilizados
 - 🔑 Contraseña obtenida
@@ -40,7 +39,7 @@ Cada nivel está documentado en su propia carpeta:
 | Nivel 02 | Archivos con nombres especiales | [Ir a nivel02](./nivel02) |
 | Nivel 03 | Archivos ocultos en carpetas ocultas | [Ir a nivel03](./nivel03) |
 
-## ⚙️
+## ⚙️ Herramientas Utilizadas
 
 | Herramienta | Descripción breve                            | Ejemplo de uso                                                      | Parámetros útiles                     |
 | ----------- | -------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------- |
