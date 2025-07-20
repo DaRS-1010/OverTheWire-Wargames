@@ -1,6 +1,6 @@
-#🧩Nivel 06 → Nivel 07
+🧩Nivel 06 → Nivel 07
 
-#🎯 Objetivo
+🎯 Objetivo
 
 La contraseña para el siguiente nivel se almacena en algún lugar del servidor y tiene todas las propiedades siguientes:
 
@@ -33,19 +33,12 @@ Ingresa la contraseña 🚩
         
         
         | `-type f` | **Archivo regular** |
-        | --- | --- |
         | `-type d` | Directorio |
-        | --- | --- |
         | `-type l` | Enlace simbólico |
-        | --- | --- |
         | `-type s` | Socket |
-        | --- | --- |
         | `-type p` | FIFO (pipe con nombre) |
-        | --- | --- |
         | `-type b` | Dispositivo en bloque |
-        | --- | --- |
         | `-type c` | Dispositivo de caracteres |
-        | --- | --- |
     - `-user bandit7` → pertenecientes al usuario `bandit7`
     - `-group bandit6` → del grupo `bandit6`
     - `-size 33c` → con tamaño de 33 bytes (c = bytes)
