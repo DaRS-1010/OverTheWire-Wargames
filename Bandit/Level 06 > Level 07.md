@@ -31,13 +31,15 @@ Ingresa la contraseña 🚩
     - `/` → lo usamos con find para analizar la información desde la raiz
     - `-type f` → tipo de archivo
         
-        | `-type f` | Archivo regular |
-        | `-type d` | Directorio |
-        | `-type l` | Enlace simbólico |
-        | `-type s` | Socket |
-        | `-type p` | FIFO (pipe con nombre) |
-        | `-type b` | Dispositivo en bloque |
-        | `-type c` | Dispositivo de caracteres |
+       | Opción    | Significado               |
+       | --------- | ------------------------- |
+       | `-type f` | **Archivo regular**       |
+       | `-type d` | Directorio                |
+       | `-type l` | Enlace simbólico          |
+       | `-type s` | Socket                    |
+       | `-type p` | FIFO (pipe con nombre)    |
+       | `-type b` | Dispositivo en bloque     |
+       | `-type c` | Dispositivo de caracteres |
       
     - `-user bandit7` → pertenecientes al usuario `bandit7`
     - `-group bandit6` → del grupo `bandit6`
@@ -57,3 +59,6 @@ visitamos la ruta y …
 | `morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj` ✅ |
 
 </div>
+
+
+
