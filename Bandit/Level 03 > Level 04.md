@@ -9,7 +9,7 @@ en un archivo oculto en el home directory.
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-  `ssh bandit3@bandit.labs.overthewire.org -p 2220`
+    `ssh bandit3@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña 🚩
 
