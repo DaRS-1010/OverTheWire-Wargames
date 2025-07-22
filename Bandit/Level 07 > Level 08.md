@@ -23,8 +23,10 @@ Ingresa la contraseña 🚩
 
 - Nos dará como resultado `millionth` `dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc`
     - Podemos refinar aún más esta salida utilizando la herramienta `awk`, de la siguiente manera:
-        `awk '{print $2} `
-        - `'{print $2}'` > se utiliza para mostrar la **segunda columna o palabra** de cada línea del texto que se le pasa como entrada.
+
+        `awk '{print $2}`
+
+        `'{print $2}'` > se utiliza para mostrar la **segunda columna o palabra** de cada línea del texto que se le pasa como entrada.
 
 > 💡 Nota: `awk` es una herramienta de línea de comandos en Unix/Linux que sirve para procesar y **extraer columnas** de texto.
 
