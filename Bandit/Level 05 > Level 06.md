@@ -11,7 +11,7 @@ La contraseña del siguiente nivel está guardada en un archivo ubicado en algú
 ## 🛠️ Solución
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
-
+        
         ssh bandit5@bandit.labs.overthewire.org -p 2220
 
 Ingresa la contraseña 🚩
