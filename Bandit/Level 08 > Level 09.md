@@ -18,7 +18,8 @@ Ingresa la contraseña 🚩
 - si miramos el contenido del archivo podremos observar una lista extensa de caracteres que será mejor filtrar
 - Para este caso, usaremos la herramienta `sort`, que permite buscar texto dentro de archivos.
     
-  `sort data.txt | uniq -u`    
+  `sort data.txt | uniq -u`
+    
     -`sort data.txt` > Ordena el archivo para que las líneas iguales estén juntas.
     - `uniq -u` > Muestra solo las lineas que no estan repetidas
 
