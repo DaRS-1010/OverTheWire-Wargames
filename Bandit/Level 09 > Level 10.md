@@ -24,15 +24,11 @@ Ingresa la contraseña 🚩
     - `grep` > Busca líneas que **comienzan con el símbolo `=`** en la entrada que recibe.
     - Podremos observa la siguiente respuesta
     
-    <aside>
-    🌐
+            ========== the
+            ========== password{k
+            =========== is
+            ========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
     
-    ========== the
-    ========== password{k
-    =========== is
-    ========== FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
-    
-    </aside>
     
 - Esto nos daria como resultado la flag 🚩 del siguiente nivel
 
