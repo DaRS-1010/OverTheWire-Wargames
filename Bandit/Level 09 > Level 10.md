@@ -16,7 +16,7 @@ Ingresa la contraseña 🚩
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Al revisar el contenido de ese archivo, veremos una larga lista de caracteres, por lo que será conveniente aplicar un filtro para facilitar su análisis.
-- Para este caso, usaremos dos herramientas `string`s y `grep`
+- Para este caso, usaremos dos herramientas `strings` y `grep`
     
     `strings data.txt | grep '^=='`
     
