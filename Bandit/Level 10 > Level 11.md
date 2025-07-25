@@ -9,20 +9,19 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt, que c
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
      ssh bandit10@bandit.labs.overthewire.org -p 2220
-
-
+     
 Ingresa la contraseña 🚩
 
-## ## 🧭Navegación
+## 🧭Navegación
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Dentro de este encontramos un string encriptada con base64
 - Para este caso, usaremos dos herramientas `cat` y `base64`
     
     `cat data.txt | base64 --decode`
-  
-      - `cat` > se utiliza para unir o visualizar el contenido de uno o varios archivos.
-      - `base64` > C**odifica o decodifica datos en formato Base64**
+
+    - `cat` > se utiliza para unir o visualizar el contenido de uno o varios archivos.
+    - `base64` > Codifica o decodifica datos en formato Base64**
     - Podremos observa la siguiente respuesta
 - Esto nos daria como resultado la flag 🚩 del siguiente nivel
 
