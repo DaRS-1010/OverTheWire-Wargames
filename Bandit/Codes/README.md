@@ -2,7 +2,7 @@
 
 El objetivo es mantener una colección organizada de código que pueda reutilizarse para solucionar desafíos o errores comunes que surgen durante los niveles.
 
-## 📂 codes/
+## 📂 codes
 
 ### ✅ `caesar_cipher.py`
 
