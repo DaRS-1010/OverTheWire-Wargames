@@ -8,7 +8,7 @@ Para hacerlo, deberás conectarte al servidor `bandit.labs.overthewire.org`, esp
 
 Una vez que hayas accedido correctamente al sistema remoto, puedes avanzar visitando la página del Nivel 1, donde encontrarás instrucciones para superar el siguiente reto.
 
-## 🧭Navegación 
+## 🧭Preparando el entorno 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH. 
 
 ⚠️ Aunque SSH usa por defecto el puerto 22, en este caso deberás usar el puerto 2220. 
@@ -20,7 +20,7 @@ __✅ Recuerda el esquema: protocolo usuario@host -opciones (si las necesitas)__
 
 Ingresa la contraseña en este caso <code>bandit0</code>
 
-## 🛠️ Pasos para resolverlo 
+## 🛠️ Guía práctica 
 - entramos como el usuario y host <code>bandit0@bandit</code>
 - <code>ls</code> para listar y mirar que contenido tenemos dentro del host
 - Podremos observar un archivo con el nombre <code>readme</code> ahora vamos a ver su
@@ -30,7 +30,7 @@ Ingresa la contraseña en este caso <code>bandit0</code>
   
 <div align="center">
 
-| 🔐 Contraseña |
+| 🔐 ¡Contraseña conseguida! |
 |:-------------:|
 | `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If` ✅ |
 
