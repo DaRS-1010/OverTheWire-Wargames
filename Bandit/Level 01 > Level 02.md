@@ -4,7 +4,7 @@
 
 Encontrar la contraseña del usuario bandit2. Está almacenada en un archivo llamado - ubicado en el home directory.
 
-## 🛠️ Solución ##
+## 🧭Preparando el entorno
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH. 
 
      ssh bandit1@bandit.labs.overthewire.org -p 2220
