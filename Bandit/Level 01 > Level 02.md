@@ -11,7 +11,7 @@ Encontrar la contraseña del usuario bandit2. Está almacenada en un archivo lla
 
 Ingresa la contraseña en este caso <code>ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If</code>
 
-## 🧭Navegación 
+## 🛠️ Guía práctica
 - si listamos con <code>ls</code> podremos observar un archivo llamado <code>-</code>
 
 - la forma correcta de abrir el archivo es especificando el directorio en donde se encuentra almacenado el archivo
