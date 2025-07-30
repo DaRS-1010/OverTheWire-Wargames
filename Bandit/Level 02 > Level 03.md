@@ -12,7 +12,7 @@ Encontrar la contraseña del usuario bandit3. Está almacenada en un archivo lla
 
 Ingresa la contraseña 🚩
 
-## 🛠️ Guía practica
+## 🛠️ Guía práctica
 
 - si listamos con <code>ls</code> podremos observar un archivo llamado <code>spaces in this filename</code>
 - En este caso nos encontramos con espacio entre el nombre del archivo el cual afecta su llamado en shell
