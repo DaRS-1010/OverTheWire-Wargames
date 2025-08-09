@@ -4,7 +4,7 @@
 
 La contraseña para el siguiente nivel se almacena en el archivo data.txt y es la única línea de texto que aparece una sola vez
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt y es l
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Si primero listamos el contenido del directorio, notaremos que hay un archivo llamado `data.txt`.
 - si miramos el contenido del archivo podremos observar una lista extensa de caracteres que será mejor filtrar
