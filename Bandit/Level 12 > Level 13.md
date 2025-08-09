@@ -20,39 +20,27 @@ Ingresa la contraseña 🚩
 - Dentro de este archivo está un volcado hexadecimal (hexdump)
 - Vamos hacer el proceso que nos pide la guia, crear un directorio temporal
     
-    `
-    mkdir /tmp/banditemp/
-    cp data.txt /tmp/bandit12
-    cd /tmp/bandit12
-    `
+  
+      mkdir /tmp/banditemp/
+      cp data.txt /tmp/bandit12
+      cd /tmp/bandit12
     
-    <aside>
-    🌐
     
-    En el nivel 12, el archivo data.txt
-    
+> **Nota:**
+   🌐 En el nivel 12, el archivo data.txt
     **no está en binario crudo**, sino en texto que representa un volcado hexadecimal.
-    
-    Antes de poder descomprimir nada, necesitas
-    
-    **reconstruir el binario original**
-    
+    Antes de poder descomprimir nada, necesitas **reconstruir el binario original**
     a partir del texto hexadecimal.
-    
-    </aside>
+
     
 - con esto en mente vamos a reconstruir el binario original ha partir de texto hexadecimal
     
-    `
-    xxd -r data.txt > data
-    `
+    `xxd -r data.txt > data `
     
 - esto nos dara el archivo data, y vamos a ver que tipo de archivo es con file
     
-    `
-    file data
-    resultado: data: gzip compressed data, was "data2.bin", last modified: Mon Jul 28 19:03:31 2025, max compression, from Unix, original size modulo 2^32 574
-     `
+    `file data
+    resultado: data: gzip compressed data, was "data2.bin", last modified: Mon Jul 28 19:03:31 2025, max compression, from Unix, original size modulo 2^32 574`
     
 - tenemos que ir verificando cada archivo con file, renombrar con mv y descomprimir con su formato.
 
@@ -125,7 +113,7 @@ file data: data: ASCII text
 cat data
 ```
 
-- Esto nos daria como resultado la flag 🚩 del siguiente nivel
+Esto nos daria como resultado la flag 🚩 del siguiente nivel
 
 <div align="center">
 
