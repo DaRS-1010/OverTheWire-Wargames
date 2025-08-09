@@ -61,52 +61,65 @@ Ingresa la contraseña 🚩
 
 - sigamos el siguiente proceso 
 
-```c
+Capa 1 – gzip
 
-mv data data.gz
-gunzip data.gz
+    mv data data.gz
+    gunzip data.gz
 
-file data : "data: bzip2 compressed data, block size = 900k"
+Capa 2 – bzip2
 
-mv data data.bz2
-bunzip2 data.bz2
+    file data
+    # data: bzip2 compressed data, block size = 900k
+    mv data data.bz2
+    bunzip2 data.bz2
 
-file data : "data: gzip compressed data, was "data4.bin", last modified: Mon Jul 28 19:03:31 2025, max compression, from Unix, original size modulo 2^32 20480
-"
+Capa 3 – gzip
 
-mv data data.gz
-gunzip data.gz 
+    file data
+    # data: gzip compressed data, was "data4.bin"
+    mv data data.gz
+    gunzip data.gz
 
-file data: "data: POSIX tar archive (GNU)"
+Capa 4 – tar
+    
+    file data
+    # data: POSIX tar archive (GNU)
+    mv data data.tar
+    tar -xf data.tar
 
-mv data data.tar
-tar -xf data.tar = "data5.bin"
+Capa 5 – tar
 
-file data5.bin : "data5.bin: POSIX tar archive (GNU)"
+    file data5.bin
+    # data5.bin: POSIX tar archive (GNU)
+    mv data5.bin data5.tar
+    tar -xf data5.tar
 
-mv data5.bin data5.tar 
-tar -xf data.tar = "data6.bin"
+Capa 6 – bzip2
+    
+    file data6.bin
+    # data6.bin: bzip2 compressed data, block size = 900k
+    mv data6.bin data6.bz2
+    bunzip2 data6.bz2
 
-file data6.bin : "data6.bin: bzip2 compressed data, block size = 900k"
+Capa 7 – tar
 
-mv data6.bin data.bz2
-bunzip2 data.bz2
+    file data6
+    # data6: POSIX tar archive (GNU)
+    mv data6 data6.tar
+    tar -xf data6.tar
 
-file data : "data: POSIX tar archive (GNU)"
+Capa 8 – gzip
 
-mv data data.tar
-tar -xf data.tar = "data8.bin"
+    file data8.bin
+    # data8.bin: gzip compressed data, was "data9.bin"
+    mv data8.bin data8.gz
+    gunzip data8.gz
 
-file data8.bin: "data8.bin: gzip compressed data, was "data9.bin", last modified: Mon Jul 28 19:03:31 2025, max compression, from Unix, original size modulo 2^32 49
-"
+capa 9 final 
 
-mv data8.bin data.gz
-gunzip data.gz
-
-file data: data: ASCII text
-cat data
-
-```
+    file data
+    # data: ASCII text
+    cat data
 
 Esto nos daria como resultado la flag 🚩 del siguiente nivel
 
