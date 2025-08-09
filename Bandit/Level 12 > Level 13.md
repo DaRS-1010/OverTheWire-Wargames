@@ -115,7 +115,7 @@ Capa 8 – gzip
     mv data8.bin data8.gz
     gunzip data8.gz
 
-capa 9 final 
+Capa 9 Final 
 
     file data
     # data: ASCII text
