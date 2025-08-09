@@ -5,7 +5,7 @@
 Encontrar la contraseña del usuario bandit4. Está almacenada 
 en un archivo oculto en el home directory.
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -13,7 +13,7 @@ en un archivo oculto en el home directory.
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Una vez nos encontremos dentro del sistema vamos a utilizar el comando `ls -la`
 - `l` (long): muestra la información en **formato largo**, es decir, cada archivo en una línea con detalles como permisos, propietario, tamaño, etc.
