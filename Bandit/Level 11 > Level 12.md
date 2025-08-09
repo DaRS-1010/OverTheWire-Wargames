@@ -4,7 +4,7 @@
 
 La contraseña para el siguiente nivel se almacena en el archivo data.txt, donde todas las letras minúsculas (a-z) y mayúsculas (A-Z) se han girado 13 posiciones
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt, donde
     
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Dentro de este archivo está la contraseña cifrada con ROT13, un cifrado que desplaza cada letra 13 posiciones en el alfabeto.
