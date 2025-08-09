@@ -8,7 +8,7 @@ La contraseña del siguiente nivel está guardada en un archivo ubicado en algú
 - Tiene un tamaño exacto de 1033 bytes.
 - No tiene permisos de ejecución.
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
         
@@ -16,7 +16,7 @@ La contraseña del siguiente nivel está guardada en un archivo ubicado en algú
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - De una forma rapida podemos empezar a filtrar con las condiciones que nos dieron
     
