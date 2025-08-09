@@ -4,7 +4,7 @@
 
 Encontrar el archivo que es legible por humanos entre muchos archivos que no lo son.
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ Encontrar el archivo que es legible por humanos entre muchos archivos que no lo 
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Una vez dentro del sistema, usamos el comando `ls -la` para listar todos los archivos, incluyendo los ocultos.
 - Veremos un directorio llamado `inhere`, y dentro de él hay 10 archivos con nombres como `file00` hasta `file09`.
