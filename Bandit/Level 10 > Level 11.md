@@ -4,7 +4,7 @@
 
 La contraseña para el siguiente nivel se almacena en el archivo data.txt, que contiene datos codificados en `base64`
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt, que c
      
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Dentro de este encontramos un string encriptada con base64
