@@ -8,7 +8,7 @@ La contraseña del próximo nivel se encuentra en algún lugar dentro del servid
 - propiedad del grupo bandit6
 - 33 bytes de tamaño
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -18,7 +18,7 @@ La contraseña del próximo nivel se encuentra en algún lugar dentro del servid
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - De una forma rapida podemos empezar a filtrar con las condiciones que nos dieron
     
