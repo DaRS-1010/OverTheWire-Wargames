@@ -6,7 +6,7 @@ La contraseña para el siguiente nivel está almacenada en el archivo `data.txt`
 
 Para resolver este nivel, puede ser útil crear un directorio temporal en `/tmp` donde puedas trabajar. Usa el comando `mkdir` con un nombre de directorio difícil de adivinar, o mejor aún, utiliza el comando `mktemp -d` para generar automáticamente un directorio temporal seguro. Luego, copia el archivo de datos usando `cp` y cámbiale el nombre con `mv` (consulta las páginas del manual con `man` si es necesario).
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -15,6 +15,8 @@ Para resolver este nivel, puede ser útil crear un directorio temporal en `/tmp`
 ```
 
 Ingresa la contraseña 🚩
+
+## 🛠️ Guía práctica
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Dentro de este archivo está un volcado hexadecimal (hexdump)
