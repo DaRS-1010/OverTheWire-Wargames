@@ -4,7 +4,7 @@
 
 La clave para avanzar al siguiente nivel está guardada en el archivo data.txt, dentro de una de las pocas líneas que se pueden leer fácilmente, y que comienza con varios signos «=».
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ La clave para avanzar al siguiente nivel está guardada en el archivo data.txt, 
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Al revisar el contenido de ese archivo, veremos una larga lista de caracteres, por lo que será conveniente aplicar un filtro para facilitar su análisis.
