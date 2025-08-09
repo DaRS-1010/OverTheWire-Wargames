@@ -4,7 +4,7 @@
 
 La contraseña para el siguiente nivel se almacena en el archivo data.txt junto a la palabra millonésima
 
-## 🛠️ Solución
+## 🧭Preparando el entorno
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
@@ -12,7 +12,7 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt junto 
 
 Ingresa la contraseña 🚩
 
-## 🧭Navegación
+## 🛠️ Guía práctica
 
 - Si primero listamos el contenido del directorio, notaremos que hay un archivo llamado `data.txt`.
 - Para este caso, usaremos la herramienta `grep`, que permite buscar texto dentro de archivos.
