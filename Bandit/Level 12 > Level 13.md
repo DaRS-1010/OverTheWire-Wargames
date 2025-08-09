@@ -19,12 +19,10 @@ Ingresa la contraseña 🚩
 - Al listar los archivos del directorio, encontraremos un archivo llamado `data.txt`.
 - Dentro de este archivo está un volcado hexadecimal (hexdump)
 - Vamos hacer el proceso que nos pide la guia, crear un directorio temporal
-    
   
       mkdir /tmp/banditemp/
       cp data.txt /tmp/bandit12
       cd /tmp/bandit12
-    
     
 > **Nota:**
    🌐 En el nivel 12, el archivo data.txt
@@ -64,10 +62,6 @@ Ingresa la contraseña 🚩
 - sigamos el siguiente proceso 
 
 ```c
-mv data data.gz
-gunzip data.gz
-
-
 
 mv data data.gz
 gunzip data.gz
@@ -98,7 +92,7 @@ file data6.bin : "data6.bin: bzip2 compressed data, block size = 900k"
 mv data6.bin data.bz2
 bunzip2 data.bz2
 
-file data : data: POSIX tar archive (GNU)
+file data : "data: POSIX tar archive (GNU)"
 
 mv data data.tar
 tar -xf data.tar = "data8.bin"
