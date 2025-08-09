@@ -21,8 +21,8 @@ Ingresa la contraseña 🚩
 - Vamos hacer el proceso que nos pide la guia, crear un directorio temporal
   
       mkdir /tmp/banditemp/
-      cp data.txt /tmp/bandit12
-      cd /tmp/bandit12
+      cp data.txt /tmp/banditemp/
+      cd /tmp/banditemp/
     
 > **Nota:**
    🌐 En el nivel 12, el archivo data.txt
@@ -105,6 +105,7 @@ gunzip data.gz
 
 file data: data: ASCII text
 cat data
+
 ```
 
 Esto nos daria como resultado la flag 🚩 del siguiente nivel
