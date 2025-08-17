@@ -12,9 +12,7 @@ La contraseña del próximo nivel se encuentra en algún lugar dentro del servid
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-```
- ssh bandit6@bandit.labs.overthewire.org -p 2220
-```
+`ssh bandit6@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña 🚩
 
