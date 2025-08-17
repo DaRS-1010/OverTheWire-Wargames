@@ -8,7 +8,7 @@ La contraseña para el siguiente nivel se almacena en el archivo data.txt, que c
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-     ssh bandit10@bandit.labs.overthewire.org -p 2220
+`ssh bandit10@bandit.labs.overthewire.org -p 2220`
      
 Ingresa la contraseña 🚩
 
