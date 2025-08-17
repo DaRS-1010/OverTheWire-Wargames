@@ -10,9 +10,7 @@ Para resolver este nivel, puede ser útil crear un directorio temporal en `/tmp`
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-```
- ssh bandit12@bandit.labs.overthewire.org -p 2220
-```
+`ssh bandit12@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña 🚩
 
