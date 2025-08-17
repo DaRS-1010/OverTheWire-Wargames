@@ -8,7 +8,7 @@ Encontrar el archivo que es legible por humanos entre muchos archivos que no lo 
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-    ssh bandit4@bandit.labs.overthewire.org -p 2220
+`ssh bandit4@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña 🚩
 
