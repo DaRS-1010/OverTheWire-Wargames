@@ -8,7 +8,7 @@ La clave para avanzar al siguiente nivel está guardada en el archivo data.txt, 
 
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH.
 
-    ssh bandit9@bandit.labs.overthewire.org -p 2220
+`ssh bandit9@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña 🚩
 
