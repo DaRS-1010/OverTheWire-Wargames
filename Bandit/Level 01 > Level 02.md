@@ -7,7 +7,7 @@ Encontrar la contraseña del usuario bandit2. Está almacenada en un archivo lla
 ## 🧭Preparando el entorno
 💻 Abre tu terminal y utiliza el protocolo de conexiones remotas SSH. 
 
-     `ssh bandit1@bandit.labs.overthewire.org -p 2220`
+`ssh bandit1@bandit.labs.overthewire.org -p 2220`
 
 Ingresa la contraseña en este caso <code>ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If</code>
 
