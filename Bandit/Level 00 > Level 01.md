@@ -14,7 +14,7 @@ Una vez que hayas accedido correctamente al sistema remoto, puedes avanzar visit
 ⚠️ Aunque SSH usa por defecto el puerto 22, en este caso deberás usar el puerto 2220. 
 Luego, especifica el nombre de usuario y el dominio del servidor al que deseas conectarte:.
 
-     ssh bandit0@bandit.labs.overthewire.org -p 2220
+`ssh bandit0@bandit.labs.overthewire.org -p 2220`
 
 __✅ Recuerda el esquema: protocolo usuario@host -opciones (si las necesitas)__
 
