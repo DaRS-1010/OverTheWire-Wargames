@@ -20,9 +20,7 @@ Ingresa la contraseña 🚩
     
     `Usage: ./suconnect <portnumber>`
     
-- Como primer paso vamos a preparar un servidor que escuche en `localhost:3232`. En algunas versiones de `nc`, el comando `nc -l -p 3232` no escucha en la dirección correcta, por lo que es más seguro usar:
-    
-    `nc -l -p 3232`
+- Como primer paso vamos a preparar un servidor que escuche en `localhost:3232`. En algunas versiones de `nc`, el comando `nc -l -p 3232` no escucha en la dirección correcta, por lo que es más seguro usar: `nc -l -p 3232`
     
 - Ahora sí podemos ejecutar el binario, indicándole el puerto que especificamos para escuchar conexiones TCP:
     
